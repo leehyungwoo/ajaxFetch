@@ -14,3 +14,7 @@
 ## fetch로 ie 하위대응하려면, fetch polyfill 검색한다
 + fetch polyfill은 ie10부터 적용된다.
 + https://github.com/github/fetch
+
+
+#ie9 호환 파일 첨부.
++  [ie9]('./ie9')
